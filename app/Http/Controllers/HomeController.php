@@ -44,11 +44,11 @@ class HomeController extends Controller
 //        return $user;
 
 
-        $user = new User();
-        $user ->name ="isaiah";
-        $user ->email ='isaiah2@gmail.com';
-        $user ->password ='password1';
-          $user->save();
+        // $user = new User();
+        // $user ->name ="isaiah";
+        // $user ->email ='isaiah2@gmail.com';
+        // $user ->password ='password1';
+        //   $user->save();
 
 
 
